@@ -95,7 +95,7 @@ textarea{
 }
 
 #hang, #nature, #trivia, #riw, #rps {
-    margin: 1% 1%;
+    margin: 0.5% 1%;
     width: 300px;
     height: auto;
     float: left;
